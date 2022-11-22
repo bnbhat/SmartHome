@@ -19,7 +19,8 @@
 char auth[] = "G_C2xIhqfeOPOIli6NggxkuvyM3fem_x";
 
 char ssid[] = "PyTorch";
-char pass[] = "MechFhws$013";
+/*char pass[] = "";
+*/
  
 #define DHTPIN 0          // D3
  
